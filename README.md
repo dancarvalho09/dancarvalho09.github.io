@@ -1,2 +1,2 @@
 # dancarvalho09.github.io
-Jornada Dev: projeto curriculo + tarefas
+Jornada Dev Ebac: projeto curriculo + tarefas
